@@ -1,15 +1,15 @@
-rain:
+traveler:
   # global variables
-  black-color: "#000000"
-  cyan-color: "#ffd1dc"
-  dark-cyan-color: "#ff69b4"
-  dark-purple-color: "#1d2b30"
-  dark-red-color: "#917394"
-  orange-color: "#ff69b4"
+  black-color: "#afeeee"
+  cyan-color: "#bcf2bc"
+  dark-cyan-color: "#1e7b1e"
+  dark-purple-color: "#daf3ff"
+  dark-red-color: "#ff5a69"
+  orange-color: "#ff7e73"
   primary-font-family: "'Rajdhani', 'Roboto'"
-  red-color: "#aeb6cf"
+  red-color: "#00e6e6"
   primary-background: 'url()'
-  background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/LuxStatera/wallpapers/main/8bit_rain.gif')"
+  background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/LuxStatera/wallpapers/main/thejourney.gif')"
 
 # animated weather icons
   weather-icon-clear-night: url("/local/waves/clear-night.svg")
@@ -58,7 +58,7 @@ rain:
   error-color: ""
   error-state-color: ""
   ha-card-background-color: "var(--black-color)"
-  ha-card-background: "rgba(0, 0, 0, 0.6)"
+  ha-card-background: "rgba(0, 0, 0, 0.5)"
   ha-card-border-color: "var(--cyan-color)"
   ha-card-border-radius: ""
   ha-card-header-font-size: ""
