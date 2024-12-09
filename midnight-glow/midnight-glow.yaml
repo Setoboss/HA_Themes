@@ -9,7 +9,7 @@ midnight-glow:
   primary-font-family: "'Rajdhani', 'Roboto'"
   red-color: "#eb067c"
   primary-background: 'url()'
-  background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/LuxStatera/wallpapers/main/3d_leaves.jpg')"
+  background-image: "center / cover no-repeat fixed url('https://w.wallhaven.cc/full/p8/wallhaven-p8j29p.jpg')"
 
 # animated weather icons
   weather-icon-clear-night: url("/local/waves/clear-night.svg")
