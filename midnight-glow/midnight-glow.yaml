@@ -1,13 +1,13 @@
 midnight-glow:
   # global variables
   black-color: "#000000"
-  cyan-color: "#ffd1dc"
-  dark-cyan-color: "#ff69b4"
-  dark-purple-color: "#1d2b30"
-  dark-red-color: "#917394"
-  orange-color: "#ff69b4"
+  cyan-color: "#364af4"
+  dark-cyan-color: "#150aad"
+  dark-purple-color: "#0c0711"
+  dark-red-color: "#5b1df2"
+  orange-color: "#7c107c"
   primary-font-family: "'Rajdhani', 'Roboto'"
-  red-color: "#aeb6cf"
+  red-color: "#eb067c"
   primary-background: 'url()'
   background-image: "center / cover no-repeat fixed url('https://w.wallhaven.cc/full/p8/wallhaven-p8j29p.jpg')"
 
